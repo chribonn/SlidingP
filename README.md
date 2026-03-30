@@ -1,4 +1,4 @@
-This is a Sliding Picture Game written in Microsoft Power Apps. 
+![](Assets/SlidingP-001.png)
 
 # The Sliding Picture Game written in Microsoft Power apps: Installation and Setup
 
