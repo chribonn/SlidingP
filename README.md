@@ -8,4 +8,13 @@ YouTube Video: https://youtu.be/XDOuvzWEV_k
 
 # Code Overview
 
-_Coming Soon_
+In this technical walkthrough, I go under the hood of the logic and code behind the game. I cover workarounds that are challenging for developers who come from procedural languages and robust IDEs—especially when handling the lack of native debugging and standard looping constructs.
+
+**Key technical topics covered:**
+
+- **Mathematical Solvability**: Using the "Inverse Check" to ensure every generated puzzle can actually be solved.
+- **Simulated Looping**: Using Timer objects to replicate `while` and `repeat` functions for shuffling tiles.
+- **UI Efficiency**: Referencing object properties instead of hardcoding values to create a maintainable grid.
+- **Variable Architecture**: A breakdown of when to use Global vs. Context variables in a gaming environment.
+
+YouTube Video: https://youtu.be/bqvlT9lHeYo
